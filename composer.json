@@ -1,0 +1,10 @@
+{
+    "name": "progood/php-project",
+    "authors": [
+        {
+            "name": "murad",
+            "email": "markholdf@gmail.com"
+        }
+    ],
+    "require": {}
+}
